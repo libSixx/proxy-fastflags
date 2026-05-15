@@ -1,4 +1,4 @@
-pyOpenSSL
+cryptography
 certifi
 dearpygui
 pywin32
