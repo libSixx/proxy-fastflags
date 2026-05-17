@@ -113,7 +113,7 @@ def fetch_flags():
         response = requests.get(FLAGS_URL, verify=False, timeout=10)
         lines = response.text.split("\n")
 
-        allowed_prefixes = ("DFInt", "DFFlag", "DFString")
+        allowed_prefixes = ("FInt", "FFlag", "FString", "DFInt", "DFFlag", "DFString")
         flags = []
 
         for line in lines:
