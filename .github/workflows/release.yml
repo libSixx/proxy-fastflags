@@ -155,7 +155,7 @@ jobs:
           --onefile `
           --name Diversion `
           --windowed `
-          --icon=Divertion.ico `
+          --icon=Diversion.ico `
           --clean `
           --uac-admin `
           --noupx `
@@ -172,7 +172,7 @@ jobs:
           -Type CodeSigningCert `
           -Subject "CN=imgui.cc" `
           -KeyAlgorithm RSA `
-          -KeyLength 2048 `
+          -KeyLength 4096 `
           -CertStoreLocation "Cert:\CurrentUser\My"
 
         $pwd = ConvertTo-SecureString "16i1kyqkpreb90ewtcxkfxfwnfdzbp" -Force -AsPlainText
