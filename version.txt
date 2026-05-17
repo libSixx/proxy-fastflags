@@ -17,13 +17,13 @@ VSVersionInfo(
         [
           StringStruct('CompanyName', 'imgui.cc'),
           StringStruct('FileDescription', 'Provided by imgui.cc'),
-          StringStruct('FileVersion', '3'),
+          StringStruct('FileVersion', '3.0.0'),
           StringStruct('InternalName', 'Flag Browser'),
           StringStruct('LegalCopyright', '© Copyright 2026 – imgui.cc – All rights reserved.'),
           StringStruct('LegalTrademarks', 'Flag Browser™ is a trademark of imgui.cc'),
           StringStruct('OriginalFilename', 'flagbrowser.exe'),
           StringStruct('ProductName', 'Flag Browser'),
-          StringStruct('ProductVersion', '3')
+          StringStruct('ProductVersion', '3.0.0')
         ])
       ]),
     VarFileInfo([VarStruct('Translation', [1033, 1200])])
