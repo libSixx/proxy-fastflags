@@ -1,8 +1,8 @@
 # UTF-8 encoded .txt
 VSVersionInfo(
   ffi=FixedFileInfo(
-    filevers=(1, 0, 0, 0),
-    prodvers=(1, 0, 0, 0),
+    filevers=(3, 0, 0, 0),
+    prodvers=(3, 0, 0, 0),
     mask=0x3f,
     flags=0x0,
     OS=0x40004,
@@ -17,13 +17,13 @@ VSVersionInfo(
         [
           StringStruct('CompanyName', 'imgui.cc'),
           StringStruct('FileDescription', 'Provided by imgui.cc'),
-          StringStruct('FileVersion', '1'),
+          StringStruct('FileVersion', '3'),
           StringStruct('InternalName', 'Flag Browser'),
           StringStruct('LegalCopyright', '© Copyright 2026 – imgui.cc – All rights reserved.'),
           StringStruct('LegalTrademarks', 'Flag Browser™ is a trademark of imgui.cc'),
           StringStruct('OriginalFilename', 'flagbrowser.exe'),
           StringStruct('ProductName', 'Flag Browser'),
-          StringStruct('ProductVersion', '1')
+          StringStruct('ProductVersion', '3')
         ])
       ]),
     VarFileInfo([VarStruct('Translation', [1033, 1200])])
