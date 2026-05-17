@@ -9,7 +9,7 @@ visibility: hidden
 </h3>
 
 <h1 align="center">Diversion FOSS</h1>
-<h6 align="center">a.k.a Flag Browser</h6>
+<h6 align="center">/daɪˈvɜːrʒən/</h6>
 
 <div align="center">
 
